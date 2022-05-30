@@ -27,7 +27,7 @@
                     echo '</tr>';
                 }
                 echo '</table>';
-                echo "<h1>Chau!!!!</h1>";
+                echo "<h1>Chau loquitaaaa!!!!</h1>";
                 $result->close();
                 mysqli_close($conn);
             ?>
